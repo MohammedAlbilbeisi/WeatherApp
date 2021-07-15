@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MohammedAlbilbeisi/WeatherApp/static/css/main.f90837a9.chunk.css",
+    "main.js": "/MohammedAlbilbeisi/WeatherApp/static/js/main.a289ef1b.chunk.js",
+    "main.js.map": "/MohammedAlbilbeisi/WeatherApp/static/js/main.a289ef1b.chunk.js.map",
+    "runtime-main.js": "/MohammedAlbilbeisi/WeatherApp/static/js/runtime-main.d1cbd3bb.js",
+    "runtime-main.js.map": "/MohammedAlbilbeisi/WeatherApp/static/js/runtime-main.d1cbd3bb.js.map",
+    "static/js/2.808a6b06.chunk.js": "/MohammedAlbilbeisi/WeatherApp/static/js/2.808a6b06.chunk.js",
+    "static/js/2.808a6b06.chunk.js.map": "/MohammedAlbilbeisi/WeatherApp/static/js/2.808a6b06.chunk.js.map",
+    "static/js/3.c1b48ca4.chunk.js": "/MohammedAlbilbeisi/WeatherApp/static/js/3.c1b48ca4.chunk.js",
+    "static/js/3.c1b48ca4.chunk.js.map": "/MohammedAlbilbeisi/WeatherApp/static/js/3.c1b48ca4.chunk.js.map",
+    "index.html": "/MohammedAlbilbeisi/WeatherApp/index.html",
+    "static/css/main.f90837a9.chunk.css.map": "/MohammedAlbilbeisi/WeatherApp/static/css/main.f90837a9.chunk.css.map",
+    "static/js/2.808a6b06.chunk.js.LICENSE.txt": "/MohammedAlbilbeisi/WeatherApp/static/js/2.808a6b06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1cbd3bb.js",
+    "static/js/2.808a6b06.chunk.js",
+    "static/css/main.f90837a9.chunk.css",
+    "static/js/main.a289ef1b.chunk.js"
+  ]
+}
